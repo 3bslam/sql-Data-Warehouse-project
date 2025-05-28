@@ -1,5 +1,0 @@
-create database data_wherehouse;
-use data_wherehouse;
-create schema bronze;
-create schema silver;
-create schema gold;
