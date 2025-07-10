@@ -22,8 +22,6 @@ Developed complete ETL processes using SQL scripts to clean, transform, and upda
 
 Created fact and dimension tables to optimize performance and reporting.
 
-Built interactive reports using SQL and Power BI.
-
 Documented and simplified the data model for both technical and business teams.
 
 Handled data quality challenges and integrated data from ERP and CRM systems.
